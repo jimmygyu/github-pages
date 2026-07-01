@@ -77,17 +77,17 @@ export const skillGroups: SkillGroup[] = [
 export const contactLinks = [
   {
     label: "GitHub" as const,
-    display: "github.com/min-gyu-jin",
-    href: "https://github.com/min-gyu-jin",
+    display: "jimmygyu",
+    href: "github.com/jimmygyu",
   },
   {
     label: "Email" as const,
-    display: "email@example.com",
+    display: "don't want to show you",
     href: "mailto:email@example.com",
   },
   {
     label: "LinkedIn" as const,
-    display: "linkedin.com/in/mingyu-jin",
-    href: "https://linkedin.com/in/mingyu-jin",
+    display: "MinGyu Jin",
+    href: "https://www.linkedin.com/in/mingyu-jin-9154993b4/",
   },
 ];
