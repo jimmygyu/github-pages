@@ -16,3 +16,7 @@ Personal portfolio website for MinGyu Jin, a Computational and Data Sciences stu
 npm install
 npm run dev
 ```
+
+## GitHub Pages
+
+This project is configured for static export and GitHub Pages deployment from the `main` branch through GitHub Actions.
