@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# production
+build/
+
+# local env
+.env
+.env*.local
+
+# logs and local tooling
+*.log
+.codex/
+.agents/
+
+# existing generated scratch/output folders
+tmp/
+output/
+
+# OS/editor
+.DS_Store
+Thumbs.db
